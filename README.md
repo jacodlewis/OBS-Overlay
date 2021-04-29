@@ -20,5 +20,12 @@ Before closing the browser tab, take note of the URL, this is what you will use 
 
 Enjoy :)
 
+## Customization
+
+The overlay image size is 400px by 80px. If you want to create a custom graphic:
+- Replace the ```overlay.png``` file with your custom graphic. 
+- If your graphic is bigger or smaller than the dimensions, you can edit them in ```styles.css``` under ```.main-rect```.
+IF you are familiar with HTML, CSS, and Javascript, you can take a crack at customizing anything you want to.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
