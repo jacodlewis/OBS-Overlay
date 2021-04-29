@@ -1,0 +1,54 @@
+body {
+    color: #f8f8ff;
+}
+
+.main-rect {
+    width: 400px;
+    max-width: 400px;
+    height: 80x;
+    max-height: 80px;
+    background-image: url("./overlay.png");
+}
+
+span {
+    font-family: 'MinecraftiaRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+
+.fade-front {
+    animation: fadeIn 20s infinite;
+  }
+  @keyframes fadeIn {
+    0% {opacity:0;}
+    10% {opacity:1;}
+    45% {opacity:1;}
+    50% {opacity:0;}
+    100% {opacity:0;}
+  }
+
+.fade-back {
+    animation: fadeOut 20s infinite;
+  }
+  @keyframes fadeOut {
+    0% {opacity:0;}
+    50% {opacity:0;}
+    60% {opacity:1;}
+    95% {opacity:1;}
+    100% {opacity:0;}
+  }
+
+
+  .container_row{
+    display: grid;
+  }
+  
+  .layer1, .layer2{
+    padding: 10px;
+    grid-column: 1;
+    grid-row: 1;
+  }
+  
+  
+  
