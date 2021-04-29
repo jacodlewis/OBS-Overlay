@@ -25,9 +25,10 @@ Enjoy :)
 The overlay image size is 400px by 80px. If you want to create a custom graphic:
 - Replace the ```overlay.png``` file with your custom graphic. 
 - If your graphic is bigger or smaller than the dimensions, you can edit them in ```styles.css``` under ```.main-rect```.  
-- 
+
+If you are interested in having it customized, feel free to add me on Discord, ```stikcye#5725```.  
 If you are familiar with HTML, CSS, and Javascript, you can take a crack at customizing anything you want to.
-If you are interested in having it customized and lack the resources to do it yourself, feel free to add me on Discord, ```stikcye#5725```.
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
