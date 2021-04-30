@@ -1,5 +1,7 @@
 # Hypixel Bedwars Overlay for Streaming
 
+![Screenshot 2021-04-29 192925](https://user-images.githubusercontent.com/54906247/116634291-3e598080-a921-11eb-837c-74453fe494f8.png)
+
 This overlay is currently meant to be used for displaying Hypixel Bedwars stats.  
 I'm very open to adding new features, if this concerns you please refer to the "Contributing" section.
 
